@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fireplace scene
+* source:	https://sketchfab.com/3d-models/fireplace-scene-b0d2faa768474d0eb9f223d4ed0bc6ab
+* author:	inboundingbox (https://sketchfab.com/inboundingbox)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fireplace scene" (https://sketchfab.com/3d-models/fireplace-scene-b0d2faa768474d0eb9f223d4ed0bc6ab) by inboundingbox (https://sketchfab.com/inboundingbox) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
