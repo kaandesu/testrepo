@@ -1,17 +1,13 @@
-[
-  {
-    "name": "sushi",
-    "id": 1,
-    "details": "lorem"
-  },
-  {
-    "name": "kebap",
-    "id": 2,
-    "details": "leziz"
-  },
-  {
-    "name": "pizza",
-    "id": 3,
-    "details": "yani"
-  }
-]
+{
+    "models": [
+        {"name": "sushi","id":1,"details": "lorem"},
+        {"name": "kebap","id":2,"details": "leziz"},
+        {"name": "pizza","id":3,"details": "yani"},
+        {"name": "kek","id":4,"details": "lmao"}
+    ],
+    "texts":[
+        {"name": "sushiText","id_t":1,"details": "lorem2"},
+        {"name": "kebapText","id_t":2,"details": "leziz2"},
+        {"name": "pizzaText","id_t":3,"details": "yani2"}
+    ]
+}
