@@ -453,7 +453,7 @@
   ],
   "images": [
     {
-      "uri": "textures/M_table_baseColor2.png"
+      "uri": "textures/M_table_baseColor.png"
     },
     {
       "uri": "textures/M_table_metallicRoughness.png"
