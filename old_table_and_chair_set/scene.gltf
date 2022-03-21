@@ -453,22 +453,22 @@
   ],
   "images": [
     {
-      "uri": "textures/M_table_baseColor.png"
+      "uri": "textures/M_table_baseColor2.png"
     },
     {
-      "uri": "textures/M_table_metallicRoughness.png"
+      "uri": "textures/M_table_metallicRoughness2.png"
     },
     {
-      "uri": "textures/M_table_normal.png"
+      "uri": "textures/M_table_normal2.png"
     },
     {
-      "uri": "textures/M_chair_baseColor.png"
+      "uri": "textures/M_chair_baseColor2.png"
     },
     {
-      "uri": "textures/M_chair_metallicRoughness.png"
+      "uri": "textures/M_chair_metallicRoughness2.png"
     },
     {
-      "uri": "textures/M_chair_normal.png"
+      "uri": "textures/M_chair_normal2.png"
     }
   ],
   "materials": [
