@@ -52,7 +52,7 @@ Those are the buttons under the state indicator image field.
  restart’ or ’reset’)  with respect to the current state and the
   value of the state button clicked. 
 
-#### What is sent when the buttons are clicked:
+##### What is sends when clicked:
 
 
 | Current State | Next State     | Command                       |
