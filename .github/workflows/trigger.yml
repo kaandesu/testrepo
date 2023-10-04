@@ -1,0 +1,14 @@
+name: Triggered Workflow
+
+on:
+  repository_dispatch:
+    types:
+      - aws-api-true-event
+
+jobs:
+  do-something:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Do something based on AWS API being true
+        run: echo "AWS API is true, do something..."
